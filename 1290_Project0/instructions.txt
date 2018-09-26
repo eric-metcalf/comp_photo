@@ -1,0 +1,11 @@
+Project 0
+---------
+
+Hi everyone,
+
+If you're new to MATLAB, please work through 'questions/2018_Fall_MATLAB_Tutorial.tex'; there's no hand-in for this one.
+
+Everyone, then please complete 'questions/2018_Fall_Project0_Template.tex', compile the LaTeX to a PDF, and upload the PDF to Gradescope.
+
+Good luck!
+James & the course staff
