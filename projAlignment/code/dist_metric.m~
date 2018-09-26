@@ -1,0 +1,18 @@
+function dist = dist_metric(a,b)
+
+m_a = mean(mean(a));
+m_b = mean(mean(b));
+
+a_norm = a - m_a;
+b_norm = b - m_b;
+
+numerator = (a_norm) .* (b_norm);
+denominator = a_norm . ^2 *
+
+
+x = a - b;
+dist = sum(sum( x .^ 2));
+
+
+
+end
